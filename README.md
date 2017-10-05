@@ -1,5 +1,4 @@
 # example-mongodb
-example-mongodb
 
 
 MongoDB Docs
